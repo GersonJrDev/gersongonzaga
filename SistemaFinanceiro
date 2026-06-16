@@ -1,0 +1,21 @@
+# Sistema Financeiro
+
+Projeto desenvolvido para controle financeiro pessoal.
+
+## Tecnologias
+
+* C#
+* ASP.NET Core
+* SQL Server
+
+## Funcionalidades planejadas
+
+* Cadastro de receitas
+* Cadastro de despesas
+* Dashboard financeiro
+* Relatórios
+* Metas de economia
+
+## Status
+
+🚧 Em desenvolvimento

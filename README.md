@@ -5,7 +5,7 @@ gersongonzaga
 
 💻 Desenvolvedor Full Stack Jr
 
-Atualmente atuo Desenvolvedor Jr em .NET | C# | JS | HTML | CSS .
+Atualmente atuo como Analista de Sistemas com foco em desenvolvimento de aplicações utilizando .NET, C#, JavaScript, HTML, CSS e bancos de dados relacionais.
 
 ## Tecnologias
 

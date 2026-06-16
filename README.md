@@ -5,7 +5,7 @@ gersongonzaga
 
 💻 Desenvolvedor Full Stack Jr
 
-Atualmente atuo Desenvolvedor Jr em .NET|C#|JS|HTML5|CSS3 .
+Atualmente atuo Desenvolvedor Jr em .NET | C# | JS | HTML | CSS .
 
 ## Tecnologias
 

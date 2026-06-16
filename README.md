@@ -17,7 +17,7 @@ Atualmente atuo Desenvolvedor Jr em .NET | C# | JS | HTML | CSS .
 * JavaScript
 * HTML5
 * CSS3
-* * Oracle
+* Oracle
 * Oracle APEX
 
 ## Experiência
